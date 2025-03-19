@@ -1,0 +1,41 @@
+body {
+    background-color: #f8f9fa;
+    min-height: 100vh;
+}
+
+.card {
+    max-width: 800px;
+    margin: 0 auto;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    min-height: 300px;
+    display: flex;
+    align-items: center;
+    transition: all 0.3s ease;
+}
+
+.progress-bar {
+    transition: width 0.5s ease;
+}
+
+#progressText {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.dragover {
+    background-color: #e9f5ff !important;
+    border: 2px dashed #0d6efd !important;
+}
+
+.spinner-border {
+    width: 2rem;
+    height: 2rem;
+}
+
+.language-selection {
+    display: none;
+}
+
+#conversionMode {
+    margin-bottom: 1rem;
+}

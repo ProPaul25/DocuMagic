@@ -1,0 +1,8 @@
+Flask==2.0.3
+PyMuPDF==1.23.8
+Pillow==10.1.0
+pytesseract==0.3.10
+python-docx==0.8.11
+tqdm==4.66.1
+werkzeug==2.0.3
+img2pdf==0.4.4
