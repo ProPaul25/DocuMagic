@@ -49,7 +49,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/DocuMagic.git
+   git clone https://github.com/ProPaul25/DocuMagic.git
    cd DocuMagic
    ```
 
